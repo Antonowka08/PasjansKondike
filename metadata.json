@@ -1,0 +1,6 @@
+{
+  "name": "Pasjans Solitaire",
+  "description": "Minimalistyczny pasjans w stylu Apple z płynną mechaniką ruchu kart, czystym białym tłem i precyzyjną grafiką.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
